@@ -34,8 +34,8 @@
 							You must <a href='user_login.php' style="text-decoration:none; position:absolute overflow:hidden; left:80px; top:7px; width:60px; height:25px; z-index:0" class='comment-post-btn-wrapper'>
 							Login 
 							</a> 
-							<div style="position:relative; overflow:hidden; left:150px; top:-36px; width:693px; height:360px; z-index:0">if you what to COMMENT!</div>
-							<div style="position:relative; overflow:hidden; left:0px; top:-345px; width:400px; height:40px; z-index:0">Don't have an Account? Click on</div>
+							<div style="position:relative; overflow:hidden; left:150px; top:-36px; width:693px; height:360px; z-index:0">if you want to COMMENT!</div>
+							<div style="position:relative; overflow:hidden; left:0px; top:-345px; width:400px; height:40px; z-index:0">Don't have an Account? Click </div>
 							<a href='user_register.php' style="text-decoration:none; position:absolute overflow:hidden; left:233px; top:58px; width:60px; height:25px; z-index:0" class='comment-post-btn-wrapper'>
 							Sign up
 							</a>
