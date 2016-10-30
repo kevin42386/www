@@ -5,7 +5,7 @@
 		<link rel="stylesheet" href="css/styles.css">
 		<link href="css/layout.css" rel="stylesheet">
 		<script src="http://jwpsrv.com/library/kPeNbr6CEeOE1CIACrqE1A.js"></script>
-		<link rel="shortcut icon" href=".../logo.png">
+		<link rel="shortcut icon" href=".../logo123.png">
 	</head>
 		<body>
 	<div class="wrapper">
