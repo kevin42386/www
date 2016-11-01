@@ -20,9 +20,8 @@
 			</center>	
 			<div style="position:relative; overflow:hidden; left:30px; top:30px; width:693px; height:360px; z-index:0">
 				<center>
-					<iframe src="" frameborder="0" width="645" height="365"></iframe> 
+					<iframe src="" frameborder="0" width="645" height="365"></iframe> LIVESTREAMING AGENT 
 					</div>
-				dfdf
 				</center>
 			
 			<div class="page-data">
