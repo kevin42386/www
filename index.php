@@ -13,8 +13,8 @@
 				<div id="cssmenu" class="align-center">
 					<ul>
 					   <li class="active"><a href="index.php">Home</a></li>
-					   <li class="active"><a href="index3.php">About</a></li>
-					   <li><a href="index4.php">Contact</a></li>
+					   <li><a href="index3.php">About</a></li>
+					   <li class="active"><a href="index4.php">Contact</a></li>
 					</ul>
 				</div>
 			</center>	
@@ -35,8 +35,8 @@
 							Login 
 							</a> 
 							<div style="position:relative; overflow:hidden; left:150px; top:-36px; width:693px; height:360px; z-index:0">if you want to COMMENT!</div>
-							<div style="position:relative; overflow:hidden; left:0px; top:-345px; width:400px; height:40px; z-index:0">Don't have an Account? Click </div>
-							<a href='user_register.php' style="text-decoration:none; position:absolute overflow:hidden; left:233px; top:58px; width:60px; height:25px; z-index:0" class='comment-post-btn-wrapper'>
+							<div style="position:relative; overflow:hidden; left:0px; top:-345px; width:400px; height:40px; z-index:0">Don't have an Account? Click</div>
+							<a href='user_register.php' style="text-decoration:none; position:absolute overflow:hidden; left:232px; top:58px; width:60px; height:25px; z-index:0" class='comment-post-btn-wrapper'>
 							Sign up
 							</a>
 							<div style="position:relative; overflow:hidden; left:300px; top:-385px; width:400px; height:40px; z-index:0">to Create one!</div>
