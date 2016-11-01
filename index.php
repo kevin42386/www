@@ -5,7 +5,7 @@
 		<link rel="stylesheet" href="css/styles.css">
 		<link href="css/layout.css" rel="stylesheet">
 		<script src="http://jwpsrv.com/library/kPeNbr6CEeOE1CIACrqE1A.js"></script>
-		<link rel="shortcut icon" href=".../logo123.png">
+		<link rel="shortcut icon" href=".../logo.png">
 	</head>
 		<body>
 	<div class="wrapper">
@@ -13,7 +13,7 @@
 				<div id="cssmenu" class="align-center">
 					<ul>
 					   <li class="active"><a href="index.php">Home</a></li>
-					   <li><a href="index3.php">About</a></li>
+					   <li class="active"><a href="index3.php">About</a></li>
 					   <li><a href="index4.php">Contact</a></li>
 					</ul>
 				</div>
