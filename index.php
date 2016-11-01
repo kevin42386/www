@@ -39,7 +39,7 @@
 							<a href='user_register.php' style="text-decoration:none; position:absolute overflow:hidden; left:224px; top:58px; width:60px; height:25px; z-index:0" class='comment-post-btn-wrapper'>
 							Sign up
 							</a>
-							<div style="position:relative; overflow:hidden; left:300px; top:-385px; width:400px; height:40px; z-index:0">to Create one!</div>
+							<div style="position:relative; overflow:hidden; left:295px; top:-385px; width:400px; height:40px; z-index:0">to Create one!</div>
 						</h3>
 					</div>
 				</div>	
